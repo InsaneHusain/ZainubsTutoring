@@ -1,0 +1,24 @@
+        img {transform: translate(150px);
+        }
+        .heading1 {
+            transform: translate(30px);
+            font-style: oblique;
+            color: blueviolet;
+
+
+        }
+        .username {
+            font-style:italic;
+            font-weight: bold;
+            color:black;
+        }
+        .HCertifications {
+            transform: translate(10px);
+        }
+        .certifications {
+            transform: translate(30pxpx);
+            
+        }
+
+
+    
